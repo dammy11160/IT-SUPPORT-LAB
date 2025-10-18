@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Damilola👋
+<a href="https://linkedin.com/in/raji-damilola-922074345/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I am a graduate with a profound interest in technology and a dedication to solving complex problems.
+
+## Objective
+ My passion for tech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 <!--
 **dammy11160/dammy11160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
